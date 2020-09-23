@@ -33,13 +33,13 @@ sudo yum install zsh git curl wget
 #### via curl
 
 ```shell
-zsh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
+zsh -c "$(curl -fsSL https://raw.github.com/chingxuds/ohmyzsh-custom/master/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-zsh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
+zsh -c "$(wget -O- https://raw.github.com/chingxuds/ohmyzsh-custom/master/install.sh)"
 ```
 
 ### 仅配置
@@ -47,11 +47,11 @@ zsh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/ma
 #### via curl
 
 ```shell
-zsh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
+zsh -c "$(curl -fsSL https://raw.github.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
 ```
 
 #### via wget
 
 ```shell
-zsh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
+zsh -c "$(wget -O- https://raw.github.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
 ```
