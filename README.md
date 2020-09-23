@@ -8,13 +8,13 @@
 #### via curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
+zsh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-sh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
+zsh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/install.sh)"
 ```
 
 ### 仅配置
@@ -22,11 +22,11 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/mas
 #### via curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
+zsh -c "$(curl -fsSL https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
 ```
 
 #### via wget
 
 ```shell
-sh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
+zsh -c "$(wget -O- https://raw.githubusercontent.com/chingxuds/ohmyzsh-custom/master/custom.sh)"
 ```
