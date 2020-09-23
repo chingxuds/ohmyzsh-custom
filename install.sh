@@ -14,6 +14,6 @@ else
     echo "Please install curl or wget first!"
 fi
 
-sed -i 's/ZSH_THEME=".*"/ZSH_THEME="robbyrussell-custom"' ~/.zshrc
+sed -i 's/ZSH_THEME=".*"/ZSH_THEME="robbyrussell-custom"/g' ~/.zshrc
 
 source ~/.zshrc
